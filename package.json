@@ -1,0 +1,26 @@
+{
+  "name": "sharkey-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hustzwen/sharkey-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hustzwen/sharkey-notes/issues"
+  },
+  "homepage": "https://github.com/hustzwen/sharkey-notes#readme",
+  "description": "",
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  }
+}
